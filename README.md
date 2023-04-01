@@ -1,4 +1,4 @@
-# OpenAI-integration-with-Python
+# OpenAI-integration-with-Python.
 OpenAI integration with Python . write just 14 line of code.
 Create an open Ai account and generate an api key.
 Set the api key on the code .
